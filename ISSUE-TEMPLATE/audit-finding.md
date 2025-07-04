@@ -2,7 +2,7 @@
 name: "Audit Finding"
 about: "Report a security finding discovered during the smart-contract audit."
 title: "[FINDING] <short title>"
-labels: ["finding", "audit"]
+labels: []
 assignees: ""
 ---
 
