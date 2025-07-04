@@ -1,7 +1,7 @@
 ---
 name: "Audit Finding"
 about: "Report a security finding discovered during the smart-contract audit."
-title: "[FINDING] <short title>"
+title: "[S-01] <finding name>"
 labels: []
 assignees: ""
 ---
